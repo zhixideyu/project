@@ -1,0 +1,641 @@
+2019-07-23 16:50:00 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-07-23 16:50:00 base.py[line:881] INFO Added job "run" to job store "default"
+2019-07-23 16:50:00 base.py[line:166] INFO Scheduler started
+2019-07-23 17:08:24 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-07-23 17:08:24 base.py[line:881] INFO Added job "run" to job store "default"
+2019-07-23 17:08:24 base.py[line:166] INFO Scheduler started
+2019-07-23 17:10:00 base.py[line:123] INFO Running job "run (trigger: cron[hour='17', minute='10'], next run at: 2019-07-23 17:10:00 CST)" (scheduled at 2019-07-23 17:10:00+08:00)
+2019-07-23 17:10:00 import_hooks.py[line:97] INFO Expand macros in /usr/local/lib/python3.5/dist-packages/macropy/core/hquotes.py
+2019-07-23 17:10:00 macros.py[line:589] INFO Finding macros in 'macropy.core.hquotes'
+2019-07-23 17:10:00 macros.py[line:602] INFO Importing macros from 'macropy.core.quotes' into 'macropy.core.hquotes'
+2019-07-23 17:10:00 import_hooks.py[line:97] INFO Expand macros in /usr/local/lib/python3.5/dist-packages/macropy/core/quotes.py
+2019-07-23 17:10:00 macros.py[line:589] INFO Finding macros in 'macropy.core.quotes'
+2019-07-23 17:10:00 import_hooks.py[line:97] INFO Expand macros in /usr/local/lib/python3.5/dist-packages/macropy/core/failure.py
+2019-07-23 17:10:00 macros.py[line:589] INFO Finding macros in 'macropy.core.failure'
+2019-07-23 17:10:00 macros.py[line:602] INFO Importing macros from 'macropy.core.hquotes' into 'macropy.core.failure'
+2019-07-23 17:10:00 import_hooks.py[line:97] INFO Expand macros in /usr/local/lib/python3.5/dist-packages/cffi/api.py
+2019-07-23 17:10:00 macros.py[line:589] INFO Finding macros in 'cffi.api'
+2019-07-23 17:10:00 import_hooks.py[line:97] INFO Expand macros in /usr/lib/python3.5/netrc.py
+2019-07-23 17:10:00 import_hooks.py[line:97] INFO Expand macros in /usr/lib/python3.5/netrc.py
+2019-07-23 17:10:00 macros.py[line:589] INFO Finding macros in 'netrc'
+2019-07-23 17:10:00 macros.py[line:589] INFO Finding macros in 'netrc'
+2019-07-23 17:10:00 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-23 17:10:00 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-23 17:10:00 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-23 17:10:00 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-23 17:10:05 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-23 17:10:05 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-23 17:10:09 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-23 17:10:10 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-23 17:10:14 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-23 17:10:14 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-23 17:10:19 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-23 17:10:19 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-23 17:10:24 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-23 17:10:24 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-23 17:10:28 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-23 17:10:28 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-23 17:10:33 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-23 17:10:33 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-23 17:10:37 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-23 17:10:37 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-23 17:10:42 import_hooks.py[line:97] INFO Expand macros in /usr/lib/python3.5/netrc.py
+2019-07-23 17:10:42 import_hooks.py[line:97] INFO Expand macros in /usr/lib/python3.5/netrc.py
+2019-07-23 17:10:42 macros.py[line:589] INFO Finding macros in 'netrc'
+2019-07-23 17:10:42 macros.py[line:589] INFO Finding macros in 'netrc'
+2019-07-23 17:10:42 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-23 17:10:42 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-23 17:10:47 base.py[line:144] INFO Job "run (trigger: cron[hour='17', minute='10'], next run at: 2019-07-24 17:10:00 CST)" executed successfully
+2019-07-23 18:37:33 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-07-23 18:37:33 base.py[line:881] INFO Added job "run" to job store "default"
+2019-07-23 18:37:33 base.py[line:166] INFO Scheduler started
+2019-07-24 09:00:00 base.py[line:123] INFO Running job "run (trigger: cron[hour='9'], next run at: 2019-07-24 09:00:00 CST)" (scheduled at 2019-07-24 09:00:00+08:00)
+2019-07-24 09:00:00 import_hooks.py[line:97] INFO Expand macros in /usr/local/lib/python3.5/dist-packages/macropy/core/hquotes.py
+2019-07-24 09:00:00 macros.py[line:589] INFO Finding macros in 'macropy.core.hquotes'
+2019-07-24 09:00:00 macros.py[line:602] INFO Importing macros from 'macropy.core.quotes' into 'macropy.core.hquotes'
+2019-07-24 09:00:00 import_hooks.py[line:97] INFO Expand macros in /usr/local/lib/python3.5/dist-packages/macropy/core/quotes.py
+2019-07-24 09:00:00 macros.py[line:589] INFO Finding macros in 'macropy.core.quotes'
+2019-07-24 09:00:00 import_hooks.py[line:97] INFO Expand macros in /usr/local/lib/python3.5/dist-packages/macropy/core/failure.py
+2019-07-24 09:00:00 macros.py[line:589] INFO Finding macros in 'macropy.core.failure'
+2019-07-24 09:00:00 macros.py[line:602] INFO Importing macros from 'macropy.core.hquotes' into 'macropy.core.failure'
+2019-07-24 09:00:00 import_hooks.py[line:97] INFO Expand macros in /usr/local/lib/python3.5/dist-packages/cffi/api.py
+2019-07-24 09:00:00 macros.py[line:589] INFO Finding macros in 'cffi.api'
+2019-07-24 09:00:00 import_hooks.py[line:97] INFO Expand macros in /usr/lib/python3.5/netrc.py
+2019-07-24 09:00:00 macros.py[line:589] INFO Finding macros in 'netrc'
+2019-07-24 09:00:00 import_hooks.py[line:97] INFO Expand macros in /usr/lib/python3.5/netrc.py
+2019-07-24 09:00:00 macros.py[line:589] INFO Finding macros in 'netrc'
+2019-07-24 09:00:00 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:00 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:00 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:00 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:05 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:05 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:10 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:10 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:14 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:14 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:19 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:19 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:24 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:24 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:28 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:29 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:33 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:34 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:38 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:38 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:42 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:43 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:47 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:48 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:52 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:53 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:00:57 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:01:02 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:01:07 import_hooks.py[line:97] INFO Expand macros in /usr/lib/python3.5/netrc.py
+2019-07-24 09:01:07 import_hooks.py[line:97] INFO Expand macros in /usr/lib/python3.5/netrc.py
+2019-07-24 09:01:07 macros.py[line:589] INFO Finding macros in 'netrc'
+2019-07-24 09:01:07 macros.py[line:589] INFO Finding macros in 'netrc'
+2019-07-24 09:01:07 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:01:07 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-24 09:01:13 base.py[line:144] INFO Job "run (trigger: cron[hour='9'], next run at: 2019-07-25 09:00:00 CST)" executed successfully
+2019-07-24 11:54:22 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-07-24 11:54:22 base.py[line:881] INFO Added job "run" to job store "default"
+2019-07-24 11:54:22 base.py[line:166] INFO Scheduler started
+2019-07-24 11:55:00 base.py[line:123] INFO Running job "run (trigger: cron[hour='11', minute='55'], next run at: 2019-07-24 11:55:00 CST)" (scheduled at 2019-07-24 11:55:00+08:00)
+2019-07-24 11:55:00 import_hooks.py[line:97] INFO Expand macros in /usr/local/lib/python3.5/dist-packages/macropy/core/hquotes.py
+2019-07-24 11:55:00 macros.py[line:589] INFO Finding macros in 'macropy.core.hquotes'
+2019-07-24 11:55:00 macros.py[line:602] INFO Importing macros from 'macropy.core.quotes' into 'macropy.core.hquotes'
+2019-07-24 11:55:00 import_hooks.py[line:97] INFO Expand macros in /usr/local/lib/python3.5/dist-packages/macropy/core/quotes.py
+2019-07-24 11:55:00 macros.py[line:589] INFO Finding macros in 'macropy.core.quotes'
+2019-07-24 11:55:00 import_hooks.py[line:97] INFO Expand macros in /usr/local/lib/python3.5/dist-packages/macropy/core/failure.py
+2019-07-24 11:55:00 macros.py[line:589] INFO Finding macros in 'macropy.core.failure'
+2019-07-24 11:55:00 macros.py[line:602] INFO Importing macros from 'macropy.core.hquotes' into 'macropy.core.failure'
+2019-07-24 11:55:00 import_hooks.py[line:97] INFO Expand macros in /usr/local/lib/python3.5/dist-packages/cffi/api.py
+2019-07-24 11:55:00 macros.py[line:589] INFO Finding macros in 'cffi.api'
+2019-07-24 11:55:06 base.py[line:144] INFO Job "run (trigger: cron[hour='11', minute='55'], next run at: 2019-07-25 11:55:00 CST)" executed successfully
+2019-07-24 13:58:45 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-07-24 13:58:45 base.py[line:881] INFO Added job "run" to job store "default"
+2019-07-24 13:58:45 base.py[line:166] INFO Scheduler started
+2019-07-24 14:00:00 base.py[line:123] INFO Running job "run (trigger: cron[hour='14'], next run at: 2019-07-24 14:00:00 CST)" (scheduled at 2019-07-24 14:00:00+08:00)
+2019-07-24 14:00:00 import_hooks.py[line:97] INFO Expand macros in /usr/local/lib/python3.5/dist-packages/macropy/core/hquotes.py
+2019-07-24 14:00:00 macros.py[line:589] INFO Finding macros in 'macropy.core.hquotes'
+2019-07-24 14:00:00 macros.py[line:602] INFO Importing macros from 'macropy.core.quotes' into 'macropy.core.hquotes'
+2019-07-24 14:00:00 import_hooks.py[line:97] INFO Expand macros in /usr/local/lib/python3.5/dist-packages/macropy/core/quotes.py
+2019-07-24 14:00:00 macros.py[line:589] INFO Finding macros in 'macropy.core.quotes'
+2019-07-24 14:00:00 import_hooks.py[line:97] INFO Expand macros in /usr/local/lib/python3.5/dist-packages/macropy/core/failure.py
+2019-07-24 14:00:00 macros.py[line:589] INFO Finding macros in 'macropy.core.failure'
+2019-07-24 14:00:00 macros.py[line:602] INFO Importing macros from 'macropy.core.hquotes' into 'macropy.core.failure'
+2019-07-24 14:00:00 import_hooks.py[line:97] INFO Expand macros in /usr/local/lib/python3.5/dist-packages/cffi/api.py
+2019-07-24 14:00:00 macros.py[line:589] INFO Finding macros in 'cffi.api'
+2019-07-24 14:00:08 base.py[line:144] INFO Job "run (trigger: cron[hour='14'], next run at: 2019-07-25 14:00:00 CST)" executed successfully
+2019-07-24 14:03:04 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-07-24 14:03:04 base.py[line:881] INFO Added job "run" to job store "default"
+2019-07-24 14:03:04 base.py[line:166] INFO Scheduler started
+2019-07-24 14:04:00 base.py[line:123] INFO Running job "run (trigger: cron[hour='14', minute='4'], next run at: 2019-07-24 14:04:00 CST)" (scheduled at 2019-07-24 14:04:00+08:00)
+2019-07-24 14:04:00 import_hooks.py[line:97] INFO Expand macros in /usr/local/lib/python3.5/dist-packages/macropy/core/hquotes.py
+2019-07-24 14:04:00 macros.py[line:589] INFO Finding macros in 'macropy.core.hquotes'
+2019-07-24 14:04:00 macros.py[line:602] INFO Importing macros from 'macropy.core.quotes' into 'macropy.core.hquotes'
+2019-07-24 14:04:00 import_hooks.py[line:97] INFO Expand macros in /usr/local/lib/python3.5/dist-packages/macropy/core/quotes.py
+2019-07-24 14:04:00 macros.py[line:589] INFO Finding macros in 'macropy.core.quotes'
+2019-07-24 14:04:00 import_hooks.py[line:97] INFO Expand macros in /usr/local/lib/python3.5/dist-packages/macropy/core/failure.py
+2019-07-24 14:04:00 macros.py[line:589] INFO Finding macros in 'macropy.core.failure'
+2019-07-24 14:04:00 macros.py[line:602] INFO Importing macros from 'macropy.core.hquotes' into 'macropy.core.failure'
+2019-07-24 14:04:00 import_hooks.py[line:97] INFO Expand macros in /usr/local/lib/python3.5/dist-packages/cffi/api.py
+2019-07-24 14:04:00 macros.py[line:589] INFO Finding macros in 'cffi.api'
+2019-07-24 14:04:06 base.py[line:144] INFO Job "run (trigger: cron[hour='14', minute='4'], next run at: 2019-07-25 14:04:00 CST)" executed successfully
+2019-07-24 14:06:28 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-07-24 14:06:28 base.py[line:881] INFO Added job "run" to job store "default"
+2019-07-24 14:06:28 base.py[line:166] INFO Scheduler started
+2019-07-24 14:24:48 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-07-24 14:24:48 base.py[line:881] INFO Added job "run" to job store "default"
+2019-07-24 14:24:48 base.py[line:166] INFO Scheduler started
+2019-07-25 09:00:00 base.py[line:123] INFO Running job "run (trigger: cron[hour='9'], next run at: 2019-07-25 09:00:00 CST)" (scheduled at 2019-07-25 09:00:00+08:00)
+2019-07-25 09:00:00 import_hooks.py[line:97] INFO Expand macros in /usr/local/lib/python3.5/dist-packages/macropy/core/hquotes.py
+2019-07-25 09:00:00 macros.py[line:589] INFO Finding macros in 'macropy.core.hquotes'
+2019-07-25 09:00:00 macros.py[line:602] INFO Importing macros from 'macropy.core.quotes' into 'macropy.core.hquotes'
+2019-07-25 09:00:00 import_hooks.py[line:97] INFO Expand macros in /usr/local/lib/python3.5/dist-packages/macropy/core/quotes.py
+2019-07-25 09:00:00 macros.py[line:589] INFO Finding macros in 'macropy.core.quotes'
+2019-07-25 09:00:00 import_hooks.py[line:97] INFO Expand macros in /usr/local/lib/python3.5/dist-packages/macropy/core/failure.py
+2019-07-25 09:00:00 macros.py[line:589] INFO Finding macros in 'macropy.core.failure'
+2019-07-25 09:00:00 macros.py[line:602] INFO Importing macros from 'macropy.core.hquotes' into 'macropy.core.failure'
+2019-07-25 09:00:00 import_hooks.py[line:97] INFO Expand macros in /usr/local/lib/python3.5/dist-packages/cffi/api.py
+2019-07-25 09:00:00 macros.py[line:589] INFO Finding macros in 'cffi.api'
+2019-07-25 09:00:00 import_hooks.py[line:97] INFO Expand macros in /usr/lib/python3.5/netrc.py
+2019-07-25 09:00:00 import_hooks.py[line:97] INFO Expand macros in /usr/lib/python3.5/netrc.py
+2019-07-25 09:00:00 macros.py[line:589] INFO Finding macros in 'netrc'
+2019-07-25 09:00:00 macros.py[line:589] INFO Finding macros in 'netrc'
+2019-07-25 09:00:00 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:00:00 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:00:01 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:00:01 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:00:05 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:00:05 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:00:10 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:00:10 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:00:15 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:00:15 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:00:19 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:00:20 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:00:24 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:00:25 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:00:29 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:00:30 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:00:34 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:00:39 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:00:44 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:00:49 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:00:54 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:00:59 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:01:03 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:01:08 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:01:13 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:01:18 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:01:21 import_hooks.py[line:97] INFO Expand macros in /usr/lib/python3.5/netrc.py
+2019-07-25 09:01:21 import_hooks.py[line:97] INFO Expand macros in /usr/lib/python3.5/netrc.py
+2019-07-25 09:01:21 macros.py[line:589] INFO Finding macros in 'netrc'
+2019-07-25 09:01:21 macros.py[line:589] INFO Finding macros in 'netrc'
+2019-07-25 09:01:21 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:01:21 connectionpool.py[line:761] INFO Starting new HTTPS connection (1): www.chandashi.com
+2019-07-25 09:01:29 base.py[line:144] INFO Job "run (trigger: cron[hour='9'], next run at: 2019-07-26 09:00:00 CST)" executed successfully
+2019-08-04 11:29:12 base.py[line:436] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-08-04 11:33:00 base.py[line:436] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-08-04 11:33:00 base.py[line:436] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-08-04 11:33:00 base.py[line:878] INFO Added job "run" to job store "default"
+2019-08-04 11:33:00 base.py[line:878] INFO Added job "run" to job store "default"
+2019-08-04 11:33:00 base.py[line:162] INFO Scheduler started
+2019-08-06 14:26:38 base.py[line:436] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-08-06 14:26:38 base.py[line:436] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-08-06 14:26:38 base.py[line:878] INFO Added job "run" to job store "default"
+2019-08-06 14:26:38 base.py[line:878] INFO Added job "run" to job store "default"
+2019-08-06 14:26:38 base.py[line:162] INFO Scheduler started
+2019-08-06 14:27:00 base.py[line:123] INFO Running job "run (trigger: cron[hour='14', minute='27'], next run at: 2019-08-06 14:27:00 CST)" (scheduled at 2019-08-06 14:27:00+08:00)
+2019-08-06 14:27:00 import_hooks.py[line:97] INFO Expand macros in C:\tools\Python3.5.4 (2)\lib\site-packages\macropy\core\hquotes.py
+2019-08-06 14:27:00 macros.py[line:589] INFO Finding macros in 'macropy.core.hquotes'
+2019-08-06 14:27:00 macros.py[line:602] INFO Importing macros from 'macropy.core.quotes' into 'macropy.core.hquotes'
+2019-08-06 14:27:00 import_hooks.py[line:97] INFO Expand macros in C:\tools\Python3.5.4 (2)\lib\site-packages\macropy\core\quotes.py
+2019-08-06 14:27:00 macros.py[line:589] INFO Finding macros in 'macropy.core.quotes'
+2019-08-06 14:27:00 import_hooks.py[line:97] INFO Expand macros in C:\tools\Python3.5.4 (2)\lib\site-packages\macropy\core\failure.py
+2019-08-06 14:27:00 macros.py[line:589] INFO Finding macros in 'macropy.core.failure'
+2019-08-06 14:27:00 macros.py[line:602] INFO Importing macros from 'macropy.core.hquotes' into 'macropy.core.failure'
+2019-08-06 14:27:00 import_hooks.py[line:97] INFO Expand macros in C:\tools\Python3.5.4 (2)\lib\site-packages\cffi\api.py
+2019-08-06 14:27:00 macros.py[line:589] INFO Finding macros in 'cffi.api'
+2019-08-06 14:27:17 base.py[line:144] INFO Job "run (trigger: cron[hour='14', minute='27'], next run at: 2019-08-07 14:27:00 CST)" executed successfully
+2019-10-21 17:18:07 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 17:18:07 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 17:18:07 base.py[line:166] INFO Scheduler started
+2019-10-21 17:23:07 base.py[line:123] INFO Running job "run (trigger: interval[0:05:00], next run at: 2019-10-21 17:23:07 CST)" (scheduled at 2019-10-21 17:23:07.089406+08:00)
+2019-10-21 17:25:31 base.py[line:144] INFO Job "run (trigger: interval[0:05:00], next run at: 2019-10-21 17:28:07 CST)" executed successfully
+2019-10-21 17:28:07 base.py[line:123] INFO Running job "run (trigger: interval[0:05:00], next run at: 2019-10-21 17:28:07 CST)" (scheduled at 2019-10-21 17:28:07.089406+08:00)
+2019-10-21 17:30:02 base.py[line:144] INFO Job "run (trigger: interval[0:05:00], next run at: 2019-10-21 17:33:07 CST)" executed successfully
+2019-10-21 17:33:07 base.py[line:123] INFO Running job "run (trigger: interval[0:05:00], next run at: 2019-10-21 17:33:07 CST)" (scheduled at 2019-10-21 17:33:07.089406+08:00)
+2019-10-21 17:34:33 base.py[line:144] INFO Job "run (trigger: interval[0:05:00], next run at: 2019-10-21 17:38:07 CST)" executed successfully
+2019-10-21 17:38:07 base.py[line:123] INFO Running job "run (trigger: interval[0:05:00], next run at: 2019-10-21 17:38:07 CST)" (scheduled at 2019-10-21 17:38:07.089406+08:00)
+2019-10-21 17:40:18 base.py[line:144] INFO Job "run (trigger: interval[0:05:00], next run at: 2019-10-21 17:43:07 CST)" executed successfully
+2019-10-21 17:43:07 base.py[line:123] INFO Running job "run (trigger: interval[0:05:00], next run at: 2019-10-21 17:43:07 CST)" (scheduled at 2019-10-21 17:43:07.089406+08:00)
+2019-10-21 17:45:33 base.py[line:144] INFO Job "run (trigger: interval[0:05:00], next run at: 2019-10-21 17:48:07 CST)" executed successfully
+2019-10-21 17:48:07 base.py[line:123] INFO Running job "run (trigger: interval[0:05:00], next run at: 2019-10-21 17:48:07 CST)" (scheduled at 2019-10-21 17:48:07.089406+08:00)
+2019-10-21 17:50:07 base.py[line:144] INFO Job "run (trigger: interval[0:05:00], next run at: 2019-10-21 17:53:07 CST)" executed successfully
+2019-10-21 17:53:07 base.py[line:123] INFO Running job "run (trigger: interval[0:05:00], next run at: 2019-10-21 17:53:07 CST)" (scheduled at 2019-10-21 17:53:07.089406+08:00)
+2019-10-21 17:53:52 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 17:53:52 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 17:53:52 base.py[line:166] INFO Scheduler started
+2019-10-21 17:54:00 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 17:54:00 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 17:54:00 base.py[line:166] INFO Scheduler started
+2019-10-21 17:55:13 base.py[line:144] INFO Job "run (trigger: interval[0:05:00], next run at: 2019-10-21 17:58:07 CST)" executed successfully
+2019-10-21 17:59:00 base.py[line:123] INFO Running job "run (trigger: interval[0:05:00], next run at: 2019-10-21 17:59:00 CST)" (scheduled at 2019-10-21 17:59:00.837928+08:00)
+2019-10-21 18:04:00 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:05:00], next run at: 2019-10-21 18:04:00 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:04:23 base.py[line:144] INFO Job "run (trigger: interval[0:05:00], next run at: 2019-10-21 18:09:00 CST)" executed successfully
+2019-10-21 18:08:34 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 18:08:34 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 18:08:34 base.py[line:166] INFO Scheduler started
+2019-10-21 18:08:37 base.py[line:123] INFO Running job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:08:37 CST)" (scheduled at 2019-10-21 18:08:37.165088+08:00)
+2019-10-21 18:08:40 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:08:40 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:08:43 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:08:43 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:08:56 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 18:08:56 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 18:08:56 base.py[line:166] INFO Scheduler started
+2019-10-21 18:08:59 base.py[line:123] INFO Running job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:08:59 CST)" (scheduled at 2019-10-21 18:08:59.617009+08:00)
+2019-10-21 18:09:02 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:09:02 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:09:05 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:09:05 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:09:08 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:09:08 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:09:11 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:09:11 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:09:14 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:09:14 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:09:15 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 18:09:15 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 18:09:15 base.py[line:166] INFO Scheduler started
+2019-10-21 18:09:17 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:09:17 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:09:18 base.py[line:123] INFO Running job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:09:18 CST)" (scheduled at 2019-10-21 18:09:18.926667+08:00)
+2019-10-21 18:09:21 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:09:21 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:09:41 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 18:09:41 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 18:09:41 base.py[line:166] INFO Scheduler started
+2019-10-21 18:09:44 base.py[line:123] INFO Running job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:09:44 CST)" (scheduled at 2019-10-21 18:09:44.945739+08:00)
+2019-10-21 18:10:25 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 18:10:25 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 18:10:25 base.py[line:166] INFO Scheduler started
+2019-10-21 18:10:28 base.py[line:123] INFO Running job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:10:28 CST)" (scheduled at 2019-10-21 18:10:28.777798+08:00)
+2019-10-21 18:10:31 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:10:31 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:10:34 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:10:34 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:10:37 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:10:37 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:10:40 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:10:40 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:10:56 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 18:10:56 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 18:10:56 base.py[line:166] INFO Scheduler started
+2019-10-21 18:10:59 base.py[line:123] INFO Running job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:10:59 CST)" (scheduled at 2019-10-21 18:10:59.453591+08:00)
+2019-10-21 18:11:02 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:11:02 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:11:05 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:11:05 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:11:08 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:11:08 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:11:21 base.py[line:144] INFO Job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:09:20 CST)" executed successfully
+2019-10-21 18:11:32 base.py[line:144] INFO Job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:08:46 CST)" executed successfully
+2019-10-21 18:12:00 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 18:12:00 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 18:12:00 base.py[line:166] INFO Scheduler started
+2019-10-21 18:12:03 base.py[line:123] INFO Running job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:12:03 CST)" (scheduled at 2019-10-21 18:12:03.467886+08:00)
+2019-10-21 18:12:06 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:12:06 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:12:09 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:12:09 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:12:09 base.py[line:144] INFO Job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:09:24 CST)" executed successfully
+2019-10-21 18:12:12 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:12:12 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:12:15 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:12:15 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:12:18 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:12:18 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:12:21 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:12:21 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:12:24 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:12:24 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:12:27 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:12:27 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:12:30 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:12:30 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:12:33 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:12:33 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:12:36 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:12:36 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:12:39 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:12:39 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:12:42 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:12:42 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:12:45 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:12:45 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:13:17 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 18:13:17 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 18:13:17 base.py[line:166] INFO Scheduler started
+2019-10-21 18:13:20 base.py[line:123] INFO Running job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:13:20 CST)" (scheduled at 2019-10-21 18:13:20.504443+08:00)
+2019-10-21 18:13:23 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:13:23 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:13:26 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:13:26 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:13:29 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:13:29 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:13:40 base.py[line:144] INFO Job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:11:11 CST)" executed successfully
+2019-10-21 18:13:57 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 18:13:57 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 18:13:57 base.py[line:166] INFO Scheduler started
+2019-10-21 18:14:00 base.py[line:123] INFO Running job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:14:00 CST)" (scheduled at 2019-10-21 18:14:00.411652+08:00)
+2019-10-21 18:14:03 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:14:03 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:14:06 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:14:06 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:14:09 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:14:09 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:14:12 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:14:12 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:14:15 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:14:15 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:14:18 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:14:18 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:14:29 base.py[line:144] INFO Job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:10:43 CST)" executed successfully
+2019-10-21 18:14:47 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 18:14:47 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 18:14:47 base.py[line:166] INFO Scheduler started
+2019-10-21 18:14:50 base.py[line:123] INFO Running job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:14:50 CST)" (scheduled at 2019-10-21 18:14:50.252786+08:00)
+2019-10-21 18:14:53 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:14:53 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:14:56 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:14:56 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:15:21 base.py[line:144] INFO Job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:12:48 CST)" executed successfully
+2019-10-21 18:15:26 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 18:15:26 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 18:15:26 base.py[line:166] INFO Scheduler started
+2019-10-21 18:15:29 base.py[line:123] INFO Running job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:15:29 CST)" (scheduled at 2019-10-21 18:15:29.087217+08:00)
+2019-10-21 18:15:32 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:15:32 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:15:35 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:15:35 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:15:38 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:15:38 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:15:43 base.py[line:144] INFO Job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:13:32 CST)" executed successfully
+2019-10-21 18:16:15 base.py[line:144] INFO Job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:14:21 CST)" executed successfully
+2019-10-21 18:16:55 base.py[line:144] INFO Job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:14:59 CST)" executed successfully
+2019-10-21 18:17:12 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 18:17:12 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 18:17:12 base.py[line:166] INFO Scheduler started
+2019-10-21 18:17:15 base.py[line:123] INFO Running job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:17:15 CST)" (scheduled at 2019-10-21 18:17:15.507976+08:00)
+2019-10-21 18:17:18 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:17:18 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:17:21 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:17:21 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:17:24 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:17:24 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:17:27 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:17:27 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:17:30 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:17:30 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:17:33 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:17:33 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:17:36 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:17:36 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:17:39 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:17:39 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:17:42 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:17:42 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:17:43 base.py[line:144] INFO Job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:15:41 CST)" executed successfully
+2019-10-21 18:17:45 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:17:45 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:17:48 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:17:48 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:17:51 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:17:51 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:17:54 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:17:54 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:17:57 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:17:57 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:18:00 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:18:00 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:18:03 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:18:03 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:18:06 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:18:06 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:18:09 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:18:09 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:18:12 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:18:12 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:18:15 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:18:15 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:18:18 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:18:18 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:18:21 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:18:21 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:18:24 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:18:24 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:18:27 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:18:27 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:18:30 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:18:30 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:18:33 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:18:33 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:18:36 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:18:36 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:18:39 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:18:39 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:18:42 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:18:42 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:18:45 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:18:45 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:18:48 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:18:48 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:18:51 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:18:51 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:18:54 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:18:54 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:18:57 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:18:57 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:19:00 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:19:00 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:19:03 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:19:03 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:19:06 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:19:06 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:19:09 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:19:09 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:19:12 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:19:12 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:19:15 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:19:15 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:19:18 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:19:18 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:19:21 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:19:21 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:19:24 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:19:24 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:19:27 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:19:27 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:19:30 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:19:30 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:19:33 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:19:33 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:19:35 base.py[line:144] INFO Job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:19:36 CST)" executed successfully
+2019-10-21 18:19:36 base.py[line:123] INFO Running job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:19:36 CST)" (scheduled at 2019-10-21 18:19:36.507976+08:00)
+2019-10-21 18:19:39 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:19:39 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:19:42 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:19:42 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:19:45 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:19:45 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:19:48 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:19:48 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:19:51 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:19:51 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:19:54 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:19:54 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:19:57 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:19:57 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:20:00 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:20:00 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:20:03 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:20:03 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:20:06 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:20:06 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:20:09 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:20:09 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:20:12 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:20:12 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:20:15 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:20:15 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:20:18 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:20:18 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:20:21 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:20:21 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:20:24 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:20:24 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:20:27 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:20:27 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:20:30 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:20:30 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:20:33 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:20:33 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:22:06 base.py[line:144] INFO Job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:20:36 CST)" executed successfully
+2019-10-21 18:23:00 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 18:23:00 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 18:23:00 base.py[line:166] INFO Scheduler started
+2019-10-21 18:23:03 base.py[line:123] INFO Running job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:23:03 CST)" (scheduled at 2019-10-21 18:23:03.736003+08:00)
+2019-10-21 18:23:06 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:23:06 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:23:09 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:23:09 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:23:17 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 18:23:17 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 18:23:17 base.py[line:166] INFO Scheduler started
+2019-10-21 18:23:20 base.py[line:123] INFO Running job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:23:20 CST)" (scheduled at 2019-10-21 18:23:20.308841+08:00)
+2019-10-21 18:23:23 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:23:23 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:23:26 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:23:26 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:23:29 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:23:29 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:23:32 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:23:32 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:24:58 base.py[line:144] INFO Job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:23:12 CST)" executed successfully
+2019-10-21 18:26:52 base.py[line:144] INFO Job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:23:35 CST)" executed successfully
+2019-10-21 18:28:19 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 18:28:19 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 18:28:19 base.py[line:166] INFO Scheduler started
+2019-10-21 18:28:22 base.py[line:123] INFO Running job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:28:22 CST)" (scheduled at 2019-10-21 18:28:22.199039+08:00)
+2019-10-21 18:28:25 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:28:25 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:28:28 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:28:28 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:28:31 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:28:31 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:28:34 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:28:34 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:29:31 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 18:29:31 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 18:29:31 base.py[line:166] INFO Scheduler started
+2019-10-21 18:29:34 base.py[line:123] INFO Running job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:29:34 CST)" (scheduled at 2019-10-21 18:29:34.128593+08:00)
+2019-10-21 18:29:37 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:29:37 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:29:40 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:29:40 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:29:43 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:29:43 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:29:46 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:29:46 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:29:49 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:29:49 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:29:52 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:29:52 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:29:55 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:29:55 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:29:55 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 18:29:55 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 18:29:55 base.py[line:166] INFO Scheduler started
+2019-10-21 18:30:00 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 18:30:00 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 18:30:00 base.py[line:166] INFO Scheduler started
+2019-10-21 18:30:03 base.py[line:123] INFO Running job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:30:03 CST)" (scheduled at 2019-10-21 18:30:03.581200+08:00)
+2019-10-21 18:30:06 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:30:06 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:30:09 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:30:09 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:30:12 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:30:12 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:30:15 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:30:15 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:30:18 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:30:18 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:30:21 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:30:21 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:30:24 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:30:24 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:32:05 base.py[line:144] INFO Job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:28:37 CST)" executed successfully
+2019-10-21 18:32:38 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 18:32:38 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 18:32:38 base.py[line:166] INFO Scheduler started
+2019-10-21 18:32:41 base.py[line:123] INFO Running job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:32:41 CST)" (scheduled at 2019-10-21 18:32:41.146085+08:00)
+2019-10-21 18:32:44 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:32:44 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:32:59 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 18:32:59 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 18:32:59 base.py[line:166] INFO Scheduler started
+2019-10-21 18:33:02 base.py[line:123] INFO Running job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:33:02 CST)" (scheduled at 2019-10-21 18:33:02.299403+08:00)
+2019-10-21 18:33:05 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:33:05 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:33:08 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:33:08 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:33:52 base.py[line:144] INFO Job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:29:58 CST)" executed successfully
+2019-10-21 18:33:59 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 18:33:59 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 18:33:59 base.py[line:166] INFO Scheduler started
+2019-10-21 18:34:02 base.py[line:123] INFO Running job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:34:02 CST)" (scheduled at 2019-10-21 18:34:02.559132+08:00)
+2019-10-21 18:34:06 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2019-10-21 18:34:06 base.py[line:881] INFO Added job "run" to job store "default"
+2019-10-21 18:34:06 base.py[line:166] INFO Scheduler started
+2019-10-21 18:34:09 base.py[line:123] INFO Running job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:34:09 CST)" (scheduled at 2019-10-21 18:34:09.616193+08:00)
+2019-10-21 18:34:12 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:34:12 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:34:15 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:34:15 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:34:18 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:34:18 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:34:21 base.py[line:978] WARNING Execution of job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:34:21 CST)" skipped: maximum number of running instances reached (1)
+2019-10-21 18:35:04 base.py[line:144] INFO Job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:30:27 CST)" executed successfully
+2019-10-21 18:35:53 base.py[line:144] INFO Job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:32:47 CST)" executed successfully
+2019-10-21 18:37:07 base.py[line:144] INFO Job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:34:24 CST)" executed successfully
+2019-10-21 18:38:00 base.py[line:144] INFO Job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:33:11 CST)" executed successfully
+2019-10-21 20:38:24 base.py[line:131] ERROR Job "run (trigger: interval[0:00:03], next run at: 2019-10-21 18:34:05 CST)" raised an exception
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/contrib/pyopenssl.py", line 485, in wrap_socket
+    cnx.do_handshake()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/OpenSSL/SSL.py", line 1426, in do_handshake
+    self._raise_ssl_error(self._ssl, result)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/OpenSSL/SSL.py", line 1166, in _raise_ssl_error
+    raise SysCallError(errno, errorcode.get(errno))
+OpenSSL.SSL.SysCallError: (50, 'ENETDOWN')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 376, in _make_request
+    self._validate_conn(conn)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 994, in _validate_conn
+    conn.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connection.py", line 394, in connect
+    ssl_context=context,
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/util/ssl_.py", line 370, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/contrib/pyopenssl.py", line 491, in wrap_socket
+    raise ssl.SSLError("bad handshake: %r" % e)
+ssl.SSLError: ("bad handshake: SysCallError(50, 'ENETDOWN')",)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/util/retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.iesdouyin.com', port=443): Max retries exceeded with url: /web/api/v2/aweme/post/?user_id=58546460081&sec_uid=&count=21&max_cursor=0&aid=1128&_signature=Vb5ZjgAACBSqQaZxrlJxJFW-WZ%0A&dytk=b689678d536d64e14d2ee9e294de2605 (Caused by SSLError(SSLError("bad handshake: SysCallError(50, 'ENETDOWN')",),))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 110, in run
+    Douyin().get_url()
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 41, in get_url
+    self.get_request(id, self.url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 51, in get_request
+    self.get_request(id, url)
+  File "/Users/edz/Desktop/python_demo/zen_master/tiktok.py", line 46, in get_request
+    response = requests.get(url, headers=self.headers, verify=False)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='www.iesdouyin.com', port=443): Max retries exceeded with url: /web/api/v2/aweme/post/?user_id=58546460081&sec_uid=&count=21&max_cursor=0&aid=1128&_signature=Vb5ZjgAACBSqQaZxrlJxJFW-WZ%0A&dytk=b689678d536d64e14d2ee9e294de2605 (Caused by SSLError(SSLError("bad handshake: SysCallError(50, 'ENETDOWN')",),))
